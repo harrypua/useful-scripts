@@ -1,0 +1,1 @@
+sed -i -r 's/setting1=.*/setting1=false/' /path/to/your/file
