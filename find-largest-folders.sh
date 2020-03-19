@@ -1,0 +1,1 @@
+sudo du -a /dir/ | sort -n -r | head -n 20
